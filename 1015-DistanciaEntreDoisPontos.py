@@ -1,6 +1,5 @@
 from math import sqrt
 
-
 valor1, valor2 = input().split()
 valor1 = float(valor1)
 valor2 = float(valor2)
